@@ -16,9 +16,7 @@ public class SecurityConfig {
             .anyRequest().permitAll();
            
         });
-	  //  httpSecurity.formLogin(Customizer.withDefaults());
-       // httpSecurity.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
-        
+	  
         httpSecurity.csrf(AbstractHttpConfigurer::disable);
         return httpSecurity.build();
 	}
