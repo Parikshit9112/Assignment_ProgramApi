@@ -167,12 +167,11 @@ This is a Spring Boot application that provides a RESTful API for managing progr
 ![alt text](<Screenshot (206).png>)
 
 **Create Program:**
-![alt text](<Screenshot (209).png>)
+/outputs/Screenshot (209).png
 
 ![alt text](<Screenshot (210).png>)
 
 **Get Programs :**
-
 *Get All Program :*
 ![alt text](<Screenshot (211).png>)
 
@@ -193,6 +192,7 @@ This is a Spring Boot application that provides a RESTful API for managing progr
 
 **Database :**
 ![alt text](<Screenshot (217).png>)
+
 
 
 ### License
