@@ -164,7 +164,8 @@ This is a Spring Boot application that provides a RESTful API for managing progr
 ### Output 
 
 **Login credentials :**
-[https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(206).png](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(206).png)
+![Screenshot (210)](https://github.com/Parikshit9112/Assignment_ProgramApi/assets/134605344/b485c04e-6c28-47d0-a750-c959e1875ddb)
+
 
 **Create Program:**
 ![alt text](<Screenshot (209).png>)
