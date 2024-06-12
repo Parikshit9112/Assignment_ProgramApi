@@ -164,36 +164,42 @@ This is a Spring Boot application that provides a RESTful API for managing progr
 ### Output 
 
 **Login credentials :**
- ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/assets/134605344/b485c04e-6c28-47d0-a750-c959e1875ddb)
-
-
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(206).png)
 
 **Create Program:**
-![alt text](<Screenshot (209).png>)
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(209).png)
 
-![alt text](<Screenshot (210).png>)
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(210).png)
+
 
 **Get Programs :**
 *Get All Program :*
-![alt text](<Screenshot (211).png>)
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(211).png)
+
 
 *Get Program By Id :*
-![alt text](<Screenshot (212).png>)
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(212).png)
+
 
 *Get Program By Name :*
-![alt text](<Screenshot (213).png>)
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(213).png)
+
 
 **Update Program :**
-![alt text](<Screenshot (214).png>)
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(214).png)
+
 
 *Updated Program : registrationsStatus and credentialType updated*
-![alt text](<Screenshot (215).png>)
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(215).png)
+
 
 **Delete Program :**
-![alt text](<Screenshot (216).png>)
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(216).png)
+
 
 **Database :**
-![alt text](<Screenshot (217).png>)
+ ![image](https://github.com/Parikshit9112/Assignment_ProgramApi/blob/master/outputs/Screenshot%20(217).png)
+
 
 
 
