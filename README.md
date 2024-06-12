@@ -155,11 +155,44 @@ This is a Spring Boot application that provides a RESTful API for managing progr
     ```
     - Click `Send`.
 
-7. **Delete a program:**
+7. **Delete a program :**
     - Method: DELETE
     - URL: `http://localhost:8080/api/programs/delete/{id}`
     - Authorization: Basic Auth (Username: `user`, Password: `password`)
     - Click `Send`.
+
+### Output 
+
+**Login credentials :**
+![alt text](<Screenshot (206).png>)
+
+**Create Program:**
+![alt text](<Screenshot (209).png>)
+
+![alt text](<Screenshot (210).png>)
+
+**Get Programs :**
+
+*Get All Program :*
+![alt text](<Screenshot (211).png>)
+
+*Get Program By Id :*
+![alt text](<Screenshot (212).png>)
+
+*Get Program By Name :*
+![alt text](<Screenshot (213).png>)
+
+**Update Program :**
+![alt text](<Screenshot (214).png>)
+
+*Updated Program : registrationsStatus and credentialType updated*
+![alt text](<Screenshot (215).png>)
+
+**Delete Program :**
+![alt text](<Screenshot (216).png>)
+
+**Database :**
+![alt text](<Screenshot (217).png>)
 
 
 ### License
