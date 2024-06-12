@@ -85,25 +85,25 @@ This is a Spring Boot application that provides a RESTful API for managing progr
 
 2. **Get all programs:**
     - Method: GET
-    - URL: `http://localhost:8080/api/programs/getAll`
+    - URL: `http://localhost:5215/api/programs/getAll`
     - Authorization: Basic Auth (Username: `user`, Password: `password`)
     - Click `Send`.
 
 3. **Get a specific program by ID:**
     - Method: GET
-    - URL: `http://localhost:8080/api/programs/getById/{id}`
+    - URL: `http://localhost:5215/api/programs/getById/{id}`
     - Authorization: Basic Auth (Username: `user`, Password: `password`)
     - Click `Send`.
 
 4. **Get a specific program by Name:**
     - Method: GET
-    - URL: `http://localhost:8080/api/programs/getByName/{name}`
+    - URL: `http://localhost:5215/api/programs/getByName/{name}`
     - Authorization: Basic Auth (Username: `user`, Password: `password`)
     - Click `Send`.
 
 5. **Create a new program:**
     - Method: POST
-    - URL: `http://localhost:8080/api/programs/create`
+    - URL: `http://localhost:5215/api/programs/create`
     - Authorization: Basic Auth (Username: `user`, Password: `password`)
     - Headers: `Content-Type: application/json`
     - Body: Raw JSON
